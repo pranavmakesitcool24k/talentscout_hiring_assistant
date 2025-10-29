@@ -1,8 +1,8 @@
 streamlit==1.28.1
 openai==1.3.5
 python-dotenv==1.0.0
-pandas==2.0.3  # Downgrade pandas to avoid build errors
-rich>=10.14.0,<14  # Compatible rich version as per streamlit
+pandas==2.0.3
+rich>=10.14.0,<14
 markdown-it-py>=2.2.0
 mdurl~=0.1
 pygments>=2.13.0,<3.0.0
